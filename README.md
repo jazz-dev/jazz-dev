@@ -8,6 +8,13 @@ I work at the intersection of quantum hardware and computational physics. My cur
 
 ## Projects
 
+### [cQED-thesis-notes](https://github.com/jazz-dev/cQED-thesis-notes)
+Working notes and derivations from David Schuster's 2007 circuit QED thesis. Covers the Jaynes-Cummings and dispersive Hamiltonians, the Cooper-pair box and transmon regimes, qubit-cavity coupling, dispersive readout, and the measurement chain, with worked derivations and simulation checks alongside the theory.
+
+`Circuit QED` `Superconducting Qubits` `Dispersive Readout` `LaTeX`
+
+---
+
 ### [quantum-measurement-pipeline](https://github.com/jazz-dev/quantum-measurement-pipeline)
 Python pipeline for quantum hardware measurement automation. Covers instrument synchronisation, readout frequency calibration via Lorentzian fitting, single-shot IQ data acquisition with state discrimination, and an interactive ipywidgets dashboard for parameter sweeps during experiment sessions.
 
